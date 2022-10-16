@@ -2,4 +2,4 @@
 
 Coding With Hitz
 
-In this tutorial we will learn how to print and work with variables.
+In this tutorial we will learn how to print to terminal using Python.
